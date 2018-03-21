@@ -1,4 +1,4 @@
-
+dfdfdfdf
 inkey Enter a keystroke: %%key
 
 switch %key
